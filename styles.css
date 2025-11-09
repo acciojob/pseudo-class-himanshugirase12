@@ -5,13 +5,13 @@
 
 #container::before{
 	color:#f00;
-	content:" After Element";
+	content:"Before Element";
 	font-size:20px;
 }
 
 #container::after{
 	color:#f00;
-	content:" After Element";
+	content:"After Element";
 	font-size:20px;
 	
 }
